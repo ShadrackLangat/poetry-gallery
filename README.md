@@ -7,7 +7,7 @@
 
 ## 🔗 Live Demo
 Once hosted via GitHub Pages:
-https://your-username.github.io/hopeful-souls-poem/
+https://chadthedog.github.io/hopeful-souls-poem/
 
 ## 📄 Files
 - `index.html` – Main poem layout
